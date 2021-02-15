@@ -1,0 +1,13 @@
+C:\source\codeworks\c-sharp-console-apps\roshambo\obj\Debug\netcoreapp3.1\roshambo.csprojAssemblyReference.cache
+C:\source\codeworks\c-sharp-console-apps\roshambo\obj\Debug\netcoreapp3.1\roshambo.AssemblyInfoInputs.cache
+C:\source\codeworks\c-sharp-console-apps\roshambo\obj\Debug\netcoreapp3.1\roshambo.AssemblyInfo.cs
+C:\source\codeworks\c-sharp-console-apps\roshambo\obj\Debug\netcoreapp3.1\roshambo.csproj.CoreCompileInputs.cache
+C:\source\codeworks\c-sharp-console-apps\roshambo\bin\Debug\netcoreapp3.1\roshambo.exe
+C:\source\codeworks\c-sharp-console-apps\roshambo\bin\Debug\netcoreapp3.1\roshambo.deps.json
+C:\source\codeworks\c-sharp-console-apps\roshambo\bin\Debug\netcoreapp3.1\roshambo.runtimeconfig.json
+C:\source\codeworks\c-sharp-console-apps\roshambo\bin\Debug\netcoreapp3.1\roshambo.runtimeconfig.dev.json
+C:\source\codeworks\c-sharp-console-apps\roshambo\bin\Debug\netcoreapp3.1\roshambo.dll
+C:\source\codeworks\c-sharp-console-apps\roshambo\bin\Debug\netcoreapp3.1\roshambo.pdb
+C:\source\codeworks\c-sharp-console-apps\roshambo\obj\Debug\netcoreapp3.1\roshambo.dll
+C:\source\codeworks\c-sharp-console-apps\roshambo\obj\Debug\netcoreapp3.1\roshambo.pdb
+C:\source\codeworks\c-sharp-console-apps\roshambo\obj\Debug\netcoreapp3.1\roshambo.genruntimeconfig.cache
